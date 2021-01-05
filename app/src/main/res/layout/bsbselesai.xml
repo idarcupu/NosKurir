@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:background="#c0c0c0"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="2.5dp"
+        android:layout_width="30dp"
+        android:layout_height="2.5dp"/>
+    <View
+        android:background="#c0c0c0"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_width="30dp"
+        android:layout_height="2.5dp"/>
+
+    <TextView
+        android:text="Siapakah Penerima Paket Ini?"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/hitamteks"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/ft"
+        android:background="@drawable/garis_dash"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        android:layout_marginBottom="15dp"
+        android:scaleType="centerInside"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"/>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/border_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/selesaikan"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/tombolaktif"
+        android:text="Selesaikan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

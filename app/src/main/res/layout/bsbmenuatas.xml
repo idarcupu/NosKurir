@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:background="#e3e3e3"
+        android:layout_marginBottom="15dp"
+        android:layout_width="30dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="3dp"/>
+
+    <RelativeLayout
+        android:id="@+id/logout"
+        android:clickable="true"
+        android:layout_marginBottom="10dp"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/ikonlogout"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ikonlogout"
+            android:layout_width="16dp"
+            android:layout_height="16dp"/>
+        <TextView
+            android:layout_toRightOf="@+id/ikonlogout"
+            android:text="Keluar"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+    <TextView
+        android:text="Nos Kurir - versi 1.0"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

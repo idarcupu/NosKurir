@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "244372032201",
+    "firebase_url": "https://nusantaraonlinesistem.firebaseio.com",
+    "project_id": "nusantaraonlinesistem",
+    "storage_bucket": "nusantaraonlinesistem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244372032201:android:29638e0891109660475b18",
+        "android_client_info": {
+          "package_name": "com.expedisi.noskurir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244372032201-sf9oi502n75kkig3g7khqkp4o3o1t6ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expedisi.noskurir",
+            "certificate_hash": "65d26dfe63a9dfc586bb44c78b77f7c371920172"
+          }
+        },
+        {
+          "client_id": "244372032201-p2v5btn3a6qfa25llr0ktdh7uj2edap7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDSSZYQ81u4lOtKqPwdtpFV4t-GtuWF5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244372032201-p2v5btn3a6qfa25llr0ktdh7uj2edap7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244372032201:android:ebb7e5f1e6f81731475b18",
+        "android_client_info": {
+          "package_name": "com.nusantara.online.sistem.noscustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244372032201-ckuudl7lokfhg6m2i69fr0jlnqtbi40d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nusantara.online.sistem.noscustomer",
+            "certificate_hash": "8597e14da372840b63f8f786bc1f3a6ae8e5e6b2"
+          }
+        },
+        {
+          "client_id": "244372032201-kurqffduul2acgf293ptalf0hn1l83rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nusantara.online.sistem.noscustomer",
+            "certificate_hash": "65d26dfe63a9dfc586bb44c78b77f7c371920172"
+          }
+        },
+        {
+          "client_id": "244372032201-mu3npc6m3s4lm3o19d5vp5d24q0v611d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nusantara.online.sistem.noscustomer",
+            "certificate_hash": "7aef5567ded406f4df9690cec2e3e8e577f92f79"
+          }
+        },
+        {
+          "client_id": "244372032201-p2v5btn3a6qfa25llr0ktdh7uj2edap7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDSSZYQ81u4lOtKqPwdtpFV4t-GtuWF5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244372032201-p2v5btn3a6qfa25llr0ktdh7uj2edap7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244372032201:android:096a5b2b459fd57a475b18",
+        "android_client_info": {
+          "package_name": "com.tech.noskurir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244372032201-atenv36vqo2a5ujeumvf3f1k22fnvbd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.noskurir",
+            "certificate_hash": "8597e14da372840b63f8f786bc1f3a6ae8e5e6b2"
+          }
+        },
+        {
+          "client_id": "244372032201-p2v5btn3a6qfa25llr0ktdh7uj2edap7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDSSZYQ81u4lOtKqPwdtpFV4t-GtuWF5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244372032201-p2v5btn3a6qfa25llr0ktdh7uj2edap7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
